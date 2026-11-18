@@ -50,4 +50,4 @@ Email: [david.pedrosa@uni-marburg.de](mailto:david.pedrosa@uni-marburg.de)
 Email: [marina.ruppert@uni-marburg.de](mailto:marina.ruppert@uni-marburg.de)
 
 ## Supported by
-<img src="assets/images/JPND-logo-white.jpg" alt="JPND Research: EU Joint Programme, Neurodegenerative Disease Research" width="260">
+<img src="assets/images/JPND_logo_white.jpg" alt="JPND Research: EU Joint Programme, Neurodegenerative Disease Research" width="260">
