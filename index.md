@@ -48,3 +48,6 @@ Marina C. Ruppert-Junck, Thilo van Eimeren, Kathrin Giehl, Rick C. Helmich, Merl
 Tel.: 06421 58 65299
 Email: [david.pedrosa@uni-marburg.de](mailto:david.pedrosa@uni-marburg.de)
 Email: [marina.ruppert@uni-marburg.de](mailto:marina.ruppert@uni-marburg.de)
+
+## Supported by
+<img src="assets/images/JPND-logo-black.jpg" alt="JPND Research: EU Joint Programme, Neurodegenerative Disease Research" width="260">
