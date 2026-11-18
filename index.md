@@ -1,7 +1,7 @@
 ---
 title: TRACE-PD
 ---
-<img src="assets/images/trace-pd-logo.png" alt="TRACE-PD logo" width="220">
+<img src="assets/images/Logo_TPD.png" alt="TRACE-PD logo" width="220">
 
 # TRACE-PD
 TRACKING THE MECHANISMS OF DISEASE PROGRESSION AND FUNCTIONAL COMPENSATION IN THE EARLY PHASE OF PARKINSON’S DISEASE
